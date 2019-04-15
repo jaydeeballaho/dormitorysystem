@@ -1,0 +1,670 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7AF3C84A-E36D-42A5-AD19-B72A32B44068}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>DMS.My.MyApplication</StartupObject>
+    <RootNamespace>DMS</RootNamespace>
+    <AssemblyName>DMS</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\Installer\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ProductName>BA Dormitory</ProductName>
+    <PublisherName>X Solutions</PublisherName>
+    <ApplicationRevision>10</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>DMS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>DMS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>house_V76_icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>083477A45BF694992A48B508B83F4C5F92815C6A</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>DMS_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controller\AccountController.vb" />
+    <Compile Include="Controller\AddOnsController.vb" />
+    <Compile Include="Controller\BorderController.vb" />
+    <Compile Include="Controller\CollectionController.vb" />
+    <Compile Include="Controller\FeesController.vb" />
+    <Compile Include="Controller\GuardianController.vb" />
+    <Compile Include="Controller\BillingController.vb" />
+    <Compile Include="Controller\Notifications.vb" />
+    <Compile Include="Controller\RentController.vb" />
+    <Compile Include="Controller\RoomController.vb" />
+    <Compile Include="Controller\SettingsController.vb" />
+    <Compile Include="Model\AccountDb.vb" />
+    <Compile Include="Model\AddOnsDb.vb" />
+    <Compile Include="Model\BorderDb.vb" />
+    <Compile Include="Model\Connection.vb" />
+    <Compile Include="Model\FeesDb.vb" />
+    <Compile Include="Model\GuardianDb.vb" />
+    <Compile Include="Model\Methods.vb" />
+    <Compile Include="Model\BillingDb.vb" />
+    <Compile Include="Model\PaymentDb.vb" />
+    <Compile Include="Model\RentDb.vb" />
+    <Compile Include="Model\RoomDb.vb" />
+    <Compile Include="Model\SettingsDb.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="View\Account\frmAccount.Designer.vb">
+      <DependentUpon>frmAccount.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Account\frmAccount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Account\frmAddAccount.Designer.vb">
+      <DependentUpon>frmAddAccount.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Account\frmAddAccount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Account\frmAdmin.Designer.vb">
+      <DependentUpon>frmAdmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Account\frmAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Account\frmEditAccount.Designer.vb">
+      <DependentUpon>frmEditAccount.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Account\frmEditAccount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Add-Ons\frmAddOns.Designer.vb">
+      <DependentUpon>frmAddOns.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Add-Ons\frmAddOns.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Billings\frmBillings.Designer.vb">
+      <DependentUpon>frmBillings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Billings\frmBillings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Border\frmAddBorder.Designer.vb">
+      <DependentUpon>frmAddBorder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Border\frmAddBorder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Border\frmBorder.Designer.vb">
+      <DependentUpon>frmBorder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Border\frmBorder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Border\frmEditBorder.Designer.vb">
+      <DependentUpon>frmEditBorder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Border\frmEditBorder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Border\frmViewGuardian.Designer.vb">
+      <DependentUpon>frmViewGuardian.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Border\frmViewGuardian.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Collection\frmAddAdvance.Designer.vb">
+      <DependentUpon>frmAddAdvance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Collection\frmAddAdvance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Collection\frmAddPayment.Designer.vb">
+      <DependentUpon>frmAddPayment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Collection\frmAddPayment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Collection\frmCollection.Designer.vb">
+      <DependentUpon>frmCollection.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Collection\frmCollection.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Collection\frmEditPayment.Designer.vb">
+      <DependentUpon>frmEditPayment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Collection\frmEditPayment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Collection\frmSearchRent.Designer.vb">
+      <DependentUpon>frmSearchRent.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Collection\frmSearchRent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Login\frmConnection.designer.vb">
+      <DependentUpon>frmConnection.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Login\frmConnection.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Login\frmLogin.designer.vb">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Login\frmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Account\frmMyProfile.designer.vb">
+      <DependentUpon>frmMyProfile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Account\frmMyProfile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Login\frmShowLogin.Designer.vb">
+      <DependentUpon>frmShowLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Login\frmShowLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Main\frmMain.designer.vb">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Main\frmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Main\frmViewOccupantsInRoom.Designer.vb">
+      <DependentUpon>frmViewOccupantsInRoom.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Main\frmViewOccupantsInRoom.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Rent\frmAddRent.Designer.vb">
+      <DependentUpon>frmAddRent.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Rent\frmAddRent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Rent\frmEditRent.Designer.vb">
+      <DependentUpon>frmEditRent.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Rent\frmEditRent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Rent\frmExtend.Designer.vb">
+      <DependentUpon>frmExtend.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Rent\frmExtend.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Rent\frmRent.Designer.vb">
+      <DependentUpon>frmRent.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Rent\frmRent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Rent\frmSearchBorder.Designer.vb">
+      <DependentUpon>frmSearchBorder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Rent\frmSearchBorder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Rent\frmSearchRoom.Designer.vb">
+      <DependentUpon>frmSearchRoom.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Rent\frmSearchRoom.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Rent\frmUpdateBorderInRent.Designer.vb">
+      <DependentUpon>frmUpdateBorderInRent.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Rent\frmUpdateBorderInRent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Reports\crptBilling.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crptBilling.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="View\Reports\crptBorder.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crptBorder.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="View\Reports\crptCollection.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crptCollection.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="View\Reports\crptPayment.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crptPayment.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="View\Reports\crptRent.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crptRent.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="View\Reports\dsBorder.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsBorder.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="View\Reports\dsReceipt.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsReceipt.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="View\Reports\dsRent.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsRent.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="View\Reports\dsSales.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsSales.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="View\Reports\frmPrint.Designer.vb">
+      <DependentUpon>frmPrint.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Reports\frmPrint.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Room\frmAddRoom.designer.vb">
+      <DependentUpon>frmAddRoom.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Room\frmAddRoom.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Room\frmEditRoom.Designer.vb">
+      <DependentUpon>frmEditRoom.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Room\frmEditRoom.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Room\frmRoom.designer.vb">
+      <DependentUpon>frmRoom.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Room\frmRoom.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Settings\frmSettings.Designer.vb">
+      <DependentUpon>frmSettings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Settings\frmSettings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Account\frmAccount.resx">
+      <DependentUpon>frmAccount.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Account\frmAddAccount.resx">
+      <DependentUpon>frmAddAccount.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Account\frmAdmin.resx">
+      <DependentUpon>frmAdmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Account\frmEditAccount.resx">
+      <DependentUpon>frmEditAccount.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Add-Ons\frmAddOns.resx">
+      <DependentUpon>frmAddOns.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Billings\frmBillings.resx">
+      <DependentUpon>frmBillings.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Border\frmAddBorder.resx">
+      <DependentUpon>frmAddBorder.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Border\frmBorder.resx">
+      <DependentUpon>frmBorder.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Border\frmEditBorder.resx">
+      <DependentUpon>frmEditBorder.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Border\frmViewGuardian.resx">
+      <DependentUpon>frmViewGuardian.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Collection\frmAddAdvance.resx">
+      <DependentUpon>frmAddAdvance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Collection\frmAddPayment.resx">
+      <DependentUpon>frmAddPayment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Collection\frmCollection.resx">
+      <DependentUpon>frmCollection.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Collection\frmEditPayment.resx">
+      <DependentUpon>frmEditPayment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Collection\frmSearchRent.resx">
+      <DependentUpon>frmSearchRent.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Login\frmConnection.resx">
+      <DependentUpon>frmConnection.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Login\frmLogin.resx">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Account\frmMyProfile.resx">
+      <DependentUpon>frmMyProfile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Login\frmShowLogin.resx">
+      <DependentUpon>frmShowLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Main\frmMain.resx">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Main\frmViewOccupantsInRoom.resx">
+      <DependentUpon>frmViewOccupantsInRoom.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Rent\frmAddRent.resx">
+      <DependentUpon>frmAddRent.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Rent\frmEditRent.resx">
+      <DependentUpon>frmEditRent.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Rent\frmExtend.resx">
+      <DependentUpon>frmExtend.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Rent\frmRent.resx">
+      <DependentUpon>frmRent.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Rent\frmSearchBorder.resx">
+      <DependentUpon>frmSearchBorder.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Rent\frmSearchRoom.resx">
+      <DependentUpon>frmSearchRoom.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Rent\frmUpdateBorderInRent.resx">
+      <DependentUpon>frmUpdateBorderInRent.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Reports\crptBilling.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crptBilling.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Reports\crptBorder.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crptBorder.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Reports\crptCollection.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crptCollection.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Reports\crptPayment.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crptPayment.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Reports\crptRent.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crptRent.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Reports\frmPrint.resx">
+      <DependentUpon>frmPrint.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Room\frmAddRoom.resx">
+      <DependentUpon>frmAddRoom.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Room\frmEditRoom.resx">
+      <DependentUpon>frmEditRoom.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Room\frmRoom.resx">
+      <DependentUpon>frmRoom.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Settings\frmSettings.resx">
+      <DependentUpon>frmSettings.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DMS_TemporaryKey.pfx" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="View\Reports\dsBorder.xsc">
+      <DependentUpon>dsBorder.xsd</DependentUpon>
+    </None>
+    <None Include="View\Reports\dsBorder.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsBorder.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="View\Reports\dsBorder.xss">
+      <DependentUpon>dsBorder.xsd</DependentUpon>
+    </None>
+    <None Include="View\Reports\dsReceipt.xsc">
+      <DependentUpon>dsReceipt.xsd</DependentUpon>
+    </None>
+    <None Include="View\Reports\dsReceipt.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsReceipt.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="View\Reports\dsReceipt.xss">
+      <DependentUpon>dsReceipt.xsd</DependentUpon>
+    </None>
+    <None Include="View\Reports\dsRent.xsc">
+      <DependentUpon>dsRent.xsd</DependentUpon>
+    </None>
+    <None Include="View\Reports\dsRent.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsRent.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="View\Reports\dsRent.xss">
+      <DependentUpon>dsRent.xsd</DependentUpon>
+    </None>
+    <None Include="View\Reports\dsSales.xsc">
+      <DependentUpon>dsSales.xsd</DependentUpon>
+    </None>
+    <None Include="View\Reports\dsSales.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsSales.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="View\Reports\dsSales.xss">
+      <DependentUpon>dsSales.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="house_V76_icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <PublishFile Include="DMS.pdb">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>File</FileType>
+    </PublishFile>
+    <PublishFile Include="DMS.xml">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>File</FileType>
+    </PublishFile>
+    <PublishFile Include="house_V76_icon.ico">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>File</FileType>
+    </PublishFile>
+    <PublishFile Include="MySql.Data">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="MySql.Data.xml">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>File</FileType>
+    </PublishFile>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

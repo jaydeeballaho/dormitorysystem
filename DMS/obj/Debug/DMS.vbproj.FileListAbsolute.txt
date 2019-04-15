@@ -1,0 +1,215 @@
+C:\Users\Smartnote\Desktop\DMS\DMS\obj\Debug\DMS.Resources.resources
+C:\Users\Smartnote\Desktop\DMS\DMS\obj\Debug\DMS.frmAccount.resources
+C:\Users\Smartnote\Desktop\DMS\DMS\obj\Debug\DMS.frmAddAccount.resources
+C:\Users\Smartnote\Desktop\DMS\DMS\obj\Debug\DMS.frmEditAccount.resources
+C:\Users\Smartnote\Desktop\DMS\DMS\obj\Debug\DMS.frmAddOns.resources
+C:\Users\Smartnote\Desktop\DMS\DMS\obj\Debug\DMS.frmBillings.resources
+C:\Users\Smartnote\Desktop\DMS\DMS\obj\Debug\DMS.frmAddBorder.resources
+C:\Users\Smartnote\Desktop\DMS\DMS\obj\Debug\DMS.frmBorder.resources
+C:\Users\Smartnote\Desktop\DMS\DMS\obj\Debug\DMS.frmEditBorder.resources
+C:\Users\Smartnote\Desktop\DMS\DMS\obj\Debug\DMS.frmAddPayment.resources
+C:\Users\Smartnote\Desktop\DMS\DMS\obj\Debug\DMS.frmCollection.resources
+C:\Users\Smartnote\Desktop\DMS\DMS\obj\Debug\DMS.frmSearchRent.resources
+C:\Users\Smartnote\Desktop\DMS\DMS\obj\Debug\DMS.frmConnection.resources
+C:\Users\Smartnote\Desktop\DMS\DMS\obj\Debug\DMS.frmLogin.resources
+C:\Users\Smartnote\Desktop\DMS\DMS\obj\Debug\DMS.frmMyProfile.resources
+C:\Users\Smartnote\Desktop\DMS\DMS\obj\Debug\DMS.frmShowLogin.resources
+C:\Users\Smartnote\Desktop\DMS\DMS\obj\Debug\DMS.frmMain.resources
+C:\Users\Smartnote\Desktop\DMS\DMS\obj\Debug\DMS.frmAddRent.resources
+C:\Users\Smartnote\Desktop\DMS\DMS\obj\Debug\DMS.frmEditRent.resources
+C:\Users\Smartnote\Desktop\DMS\DMS\obj\Debug\DMS.frmExtend.resources
+C:\Users\Smartnote\Desktop\DMS\DMS\obj\Debug\DMS.frmRent.resources
+C:\Users\Smartnote\Desktop\DMS\DMS\obj\Debug\DMS.frmSearchBorder.resources
+C:\Users\Smartnote\Desktop\DMS\DMS\obj\Debug\DMS.frmSearchRoom.resources
+C:\Users\Smartnote\Desktop\DMS\DMS\obj\Debug\DMS.frmAddRoom.resources
+C:\Users\Smartnote\Desktop\DMS\DMS\obj\Debug\DMS.frmEditRoom.resources
+C:\Users\Smartnote\Desktop\DMS\DMS\obj\Debug\DMS.frmRoom.resources
+C:\Users\Smartnote\Desktop\DMS\DMS\obj\Debug\DMS.frmSettings.resources
+C:\Users\Smartnote\Desktop\DMS\DMS\obj\Debug\DMS.vbproj.GenerateResource.Cache
+C:\Users\Smartnote\Desktop\DMS\DMS\bin\Debug\DMS.exe.config
+C:\Users\Smartnote\Desktop\DMS\DMS\bin\Debug\DMS.exe
+C:\Users\Smartnote\Desktop\DMS\DMS\bin\Debug\DMS.pdb
+C:\Users\Smartnote\Desktop\DMS\DMS\bin\Debug\DMS.xml
+C:\Users\Smartnote\Desktop\DMS\DMS\obj\Debug\DMS.exe
+C:\Users\Smartnote\Desktop\DMS\DMS\obj\Debug\DMS.xml
+C:\Users\Smartnote\Desktop\DMS\DMS\obj\Debug\DMS.pdb
+C:\Users\Smartnote\Desktop\DMS\DMS\obj\Debug\DMS.frmEditPayment.resources
+C:\Users\Smartnote\Desktop\DMS\DMS\obj\Debug\DMS.frmAdmin.resources
+C:\Users\Smartnote\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.Resources.resources
+C:\Users\Smartnote\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmAccount.resources
+C:\Users\Smartnote\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmAddAccount.resources
+C:\Users\Smartnote\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmAdmin.resources
+C:\Users\Smartnote\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmEditAccount.resources
+C:\Users\Smartnote\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmAddOns.resources
+C:\Users\Smartnote\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmBillings.resources
+C:\Users\Smartnote\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmAddBorder.resources
+C:\Users\Smartnote\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmBorder.resources
+C:\Users\Smartnote\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmEditBorder.resources
+C:\Users\Smartnote\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmAddAdvance.resources
+C:\Users\Smartnote\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmAddPayment.resources
+C:\Users\Smartnote\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmCollection.resources
+C:\Users\Smartnote\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmEditPayment.resources
+C:\Users\Smartnote\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmSearchRent.resources
+C:\Users\Smartnote\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmConnection.resources
+C:\Users\Smartnote\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmLogin.resources
+C:\Users\Smartnote\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmMyProfile.resources
+C:\Users\Smartnote\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmShowLogin.resources
+C:\Users\Smartnote\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmMain.resources
+C:\Users\Smartnote\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmAddRent.resources
+C:\Users\Smartnote\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmEditRent.resources
+C:\Users\Smartnote\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmExtend.resources
+C:\Users\Smartnote\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmRent.resources
+C:\Users\Smartnote\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmSearchBorder.resources
+C:\Users\Smartnote\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmSearchRoom.resources
+C:\Users\Smartnote\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmAddRoom.resources
+C:\Users\Smartnote\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmEditRoom.resources
+C:\Users\Smartnote\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmRoom.resources
+C:\Users\Smartnote\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmSettings.resources
+C:\Users\Smartnote\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.vbproj.GenerateResource.Cache
+C:\Users\Smartnote\Desktop\Boss-J\SDA18-000-003\DMS\DMS\bin\Debug\DMS.exe.config
+C:\Users\Smartnote\Desktop\Boss-J\SDA18-000-003\DMS\DMS\bin\Debug\DMS.exe
+C:\Users\Smartnote\Desktop\Boss-J\SDA18-000-003\DMS\DMS\bin\Debug\DMS.pdb
+C:\Users\Smartnote\Desktop\Boss-J\SDA18-000-003\DMS\DMS\bin\Debug\DMS.xml
+C:\Users\Smartnote\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.exe
+C:\Users\Smartnote\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.xml
+C:\Users\Smartnote\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.pdb
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.Resources.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmAccount.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmAddAccount.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmAdmin.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmEditAccount.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmAddOns.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmBillings.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmAddBorder.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmBorder.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmEditBorder.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmViewGuardian.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmAddAdvance.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmAddPayment.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmCollection.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmEditPayment.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmSearchRent.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmConnection.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmLogin.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmMyProfile.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmShowLogin.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmMain.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmAddRent.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmEditRent.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmExtend.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmRent.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmSearchBorder.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmSearchRoom.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmUpdateBorderInRent.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmPrint.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmAddRoom.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmEditRoom.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmRoom.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmSettings.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.vbproj.GenerateResource.Cache
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS\DMS\bin\Debug\DMS.exe.config
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS\DMS\bin\Debug\DMS.exe.manifest
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS\DMS\bin\Debug\DMS.application
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS\DMS\bin\Debug\DMS.exe
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS\DMS\bin\Debug\DMS.pdb
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS\DMS\bin\Debug\DMS.xml
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.exe.manifest
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.application
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.exe
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.xml
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.pdb
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.vbprojResolveAssemblyReference.cache
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS - Copy\DMS\bin\Debug\DMS.exe.config
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS - Copy\DMS\obj\Debug\DMS.exe
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS - Copy\DMS\obj\Debug\DMS.xml
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS - Copy\DMS\obj\Debug\DMS.pdb
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS - Copy\DMS\bin\Debug\DMS.exe.manifest
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS - Copy\DMS\bin\Debug\DMS.application
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS - Copy\DMS\bin\Debug\DMS.exe
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS - Copy\DMS\bin\Debug\DMS.pdb
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS - Copy\DMS\bin\Debug\DMS.xml
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS - Copy\DMS\obj\Debug\DMS.vbprojResolveAssemblyReference.cache
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS - Copy\DMS\obj\Debug\DMS.Resources.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS - Copy\DMS\obj\Debug\DMS.frmAccount.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS - Copy\DMS\obj\Debug\DMS.frmAddAccount.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS - Copy\DMS\obj\Debug\DMS.frmAdmin.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS - Copy\DMS\obj\Debug\DMS.frmEditAccount.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS - Copy\DMS\obj\Debug\DMS.frmAddOns.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS - Copy\DMS\obj\Debug\DMS.frmBillings.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS - Copy\DMS\obj\Debug\DMS.frmAddBorder.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS - Copy\DMS\obj\Debug\DMS.frmBorder.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS - Copy\DMS\obj\Debug\DMS.frmEditBorder.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS - Copy\DMS\obj\Debug\DMS.frmViewGuardian.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS - Copy\DMS\obj\Debug\DMS.frmAddAdvance.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS - Copy\DMS\obj\Debug\DMS.frmAddPayment.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS - Copy\DMS\obj\Debug\DMS.frmCollection.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS - Copy\DMS\obj\Debug\DMS.frmEditPayment.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS - Copy\DMS\obj\Debug\DMS.frmSearchRent.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS - Copy\DMS\obj\Debug\DMS.frmConnection.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS - Copy\DMS\obj\Debug\DMS.frmLogin.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS - Copy\DMS\obj\Debug\DMS.frmMyProfile.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS - Copy\DMS\obj\Debug\DMS.frmShowLogin.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS - Copy\DMS\obj\Debug\DMS.frmMain.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS - Copy\DMS\obj\Debug\DMS.frmAddRent.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS - Copy\DMS\obj\Debug\DMS.frmEditRent.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS - Copy\DMS\obj\Debug\DMS.frmExtend.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS - Copy\DMS\obj\Debug\DMS.frmRent.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS - Copy\DMS\obj\Debug\DMS.frmSearchBorder.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS - Copy\DMS\obj\Debug\DMS.frmSearchRoom.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS - Copy\DMS\obj\Debug\DMS.frmUpdateBorderInRent.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS - Copy\DMS\obj\Debug\DMS.frmPrint.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS - Copy\DMS\obj\Debug\DMS.frmAddRoom.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS - Copy\DMS\obj\Debug\DMS.frmEditRoom.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS - Copy\DMS\obj\Debug\DMS.frmRoom.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS - Copy\DMS\obj\Debug\DMS.frmSettings.resources
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS - Copy\DMS\obj\Debug\DMS.vbproj.GenerateResource.Cache
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS - Copy\DMS\obj\Debug\DMS.exe.manifest
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS - Copy\DMS\obj\Debug\DMS.application
+C:\Users\Jaydie\Desktop\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmViewOccupantsInRoom.resources
+D:\2019\Boss-J\SDA18-000-003\DMS\DMS\bin\Debug\DMS.exe.config
+D:\2019\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.exe
+D:\2019\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.xml
+D:\2019\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.pdb
+D:\2019\Boss-J\SDA18-000-003\DMS\DMS\bin\Debug\DMS.exe.manifest
+D:\2019\Boss-J\SDA18-000-003\DMS\DMS\bin\Debug\DMS.application
+D:\2019\Boss-J\SDA18-000-003\DMS\DMS\bin\Debug\DMS.exe
+D:\2019\Boss-J\SDA18-000-003\DMS\DMS\bin\Debug\DMS.pdb
+D:\2019\Boss-J\SDA18-000-003\DMS\DMS\bin\Debug\DMS.xml
+D:\2019\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.vbprojResolveAssemblyReference.cache
+D:\2019\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.Resources.resources
+D:\2019\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmAccount.resources
+D:\2019\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmAddAccount.resources
+D:\2019\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmAdmin.resources
+D:\2019\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmEditAccount.resources
+D:\2019\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmAddOns.resources
+D:\2019\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmBillings.resources
+D:\2019\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmAddBorder.resources
+D:\2019\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmBorder.resources
+D:\2019\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmEditBorder.resources
+D:\2019\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmViewGuardian.resources
+D:\2019\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmAddAdvance.resources
+D:\2019\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmAddPayment.resources
+D:\2019\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmCollection.resources
+D:\2019\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmEditPayment.resources
+D:\2019\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmSearchRent.resources
+D:\2019\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmConnection.resources
+D:\2019\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmLogin.resources
+D:\2019\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmMyProfile.resources
+D:\2019\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmShowLogin.resources
+D:\2019\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmMain.resources
+D:\2019\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmViewOccupantsInRoom.resources
+D:\2019\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmAddRent.resources
+D:\2019\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmEditRent.resources
+D:\2019\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmExtend.resources
+D:\2019\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmRent.resources
+D:\2019\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmSearchBorder.resources
+D:\2019\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmSearchRoom.resources
+D:\2019\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmUpdateBorderInRent.resources
+D:\2019\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmPrint.resources
+D:\2019\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmAddRoom.resources
+D:\2019\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmEditRoom.resources
+D:\2019\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmRoom.resources
+D:\2019\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.frmSettings.resources
+D:\2019\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.vbproj.GenerateResource.Cache
+D:\2019\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.exe.manifest
+D:\2019\Boss-J\SDA18-000-003\DMS\DMS\obj\Debug\DMS.application
